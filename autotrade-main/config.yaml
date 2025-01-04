@@ -1,0 +1,24 @@
+# 홈페이지에서 API서비스 신청시 받은 Appkey, Appsecret 값 설정
+APP_KEY: "PS5LWsYbcmZg0tkAO5erY8g8359b1eJlfbjr"
+APP_SECRET: "1H0i0yQdjK6Jrm3jexPfh6Lh8wCC/YLXVMyUQ64e+ezcQczcYTKvQ3yNBu+vBt+cIahH+0xIdE5zWIEtLOU1U9Pb+kisbG8xV+x4UF8KLbfhRsXSZiqnvJyeeqBJNup5XoUBn9nmxnOI+klxiEWHvz36J8n5V0dFjzgyLwCo4v6A7oociu8="
+
+# 계좌번호 앞 8자리
+CANO: "80540931"
+# 계좌번호 뒤 2자리
+ACNT_PRDT_CD: "01"
+
+USER_ID: "cjsql123"
+# 실전투자
+URL_BASE: "https://openapi.koreainvestment.com:9443"
+# 모의투자
+# URL_BASE: "https://openapivts.koreainvestment.com:29443"
+
+# 디스코드 웹훅 URL
+DISCORD_WEBHOOK_URL: "https://discord.com/api/webhooks/1273874832714371134/7CYPCJxBcytzFMv-glYWgxb8-stkM83C9c0ZySj46EqQh0qQxSsaJW-XekFD5Q3W8O6Y"
+
+# MySQL 설정
+DB_HOST: "localhost"
+DB_USER: "root" # MySQL 사용자 이름
+DB_PASS: "qwer132!#@" # MySQL 비밀번호
+DB_PASS2: "qwer132!#@" # MySQL 비밀번호
+DB_NAME: "stock_db" # 사용하고자 하는 데이터베이스 이름

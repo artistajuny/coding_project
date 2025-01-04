@@ -1,0 +1,9 @@
+{
+  "python.analysis.extraPaths": [
+      "C:/Users/artis/anaconda3/envs/stock_bot12/Lib/site-packages"
+  ],
+  "python.defaultInterpreterPath": "C:/Users/artis/anaconda3/envs/stock_bot12/python.exe",
+  "python.analysis.typeCheckingMode": "off",
+ 
+  "python.languageServer": "Jedi"
+}
